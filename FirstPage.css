@@ -1,0 +1,13 @@
+.heading{
+    font-size: 46px;
+    text-align: center;
+    font-family: ui-monospace;
+}
+.inputfieeld{
+        margin-left: 24%;
+    margin-right: 24%;
+    margin-top: 3%;
+}
+.backimage{
+        background-image: url(1.jpg);
+}

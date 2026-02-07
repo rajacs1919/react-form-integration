@@ -1,0 +1,28 @@
+.inputfield{
+    font-family: fangsong;
+    margin-right: 0%;
+    margin-left: 0%;
+    padding-top: 1%;
+}
+.sub-cancel-button-field{
+        text-align: center;
+    font-family: fangsong;
+    margin-top: 3%;
+}
+.sub-button-field{
+    margin-right: 4%;
+}
+.tablefield{
+        margin-left: 1%;
+    margin-top: 5%;
+    margin-right: 1%;
+    font-family: emoji;
+}
+tr{
+    text-align: center;
+}
+.headingfield{
+    text-align: center;
+    font-size: 55px;
+    padding-bottom: 2%;
+}
